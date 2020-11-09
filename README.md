@@ -10,6 +10,12 @@ We createed a random city location list over 2000 cities which included their we
 
 https://github.com/ttan0408/World_Weather_Analysis/blob/main/Weather_Database_Summary.PNG
 
-Then using these 2000 cities list, we add the temperature filter so that traveler can filter the preference temperature cities that they like to visit. The list after filtered is only shown the citi location where the max temperature is in the traveler input ranges, for example this list is showing cities which have temp between 75 F to 90 F ;
+Then using these 2000 cities list, we add the temperature filter so that traveler can filter the preference temperature cities that they like to visit. The list after filtered is only shown the citi location where the max temperature is in the traveler input ranges, for example this list is showing cities which have temp between 75 F to 90 F :
+
+https://github.com/ttan0408/World_Weather_Analysis/blob/main/Weather_Database_Summary_Temp_Filtering.PNG
+
+The impproved app also use the Google map to show the cities and their information such as weather description
+
+
 
 
