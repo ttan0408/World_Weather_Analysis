@@ -26,6 +26,10 @@ https://github.com/ttan0408/World_Weather_Analysis/blob/main/Vacation_Itinerary/
 
 Within these four cities, travel can also look at layer maker map so they can understand how the current weather description look like :
 
+https://github.com/ttan0408/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png
+
+The entire project files can be found at :
+
 
 
 
