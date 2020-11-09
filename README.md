@@ -22,6 +22,10 @@ https://github.com/ttan0408/World_Weather_Analysis/blob/main/Vacation_Search/Wea
 
 We also enhance the app so that travelers can select cities and create their itineraries. The example map where the 4 city destinations is shown below :
 
+https://github.com/ttan0408/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG
+
+Within these four cities, travel can also look at layer maker map so they can understand how the current weather description look like :
+
 
 
 
