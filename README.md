@@ -16,6 +16,14 @@ https://github.com/ttan0408/World_Weather_Analysis/blob/main/Weather_Database_Su
 
 The impproved app also use the Google map to show the cities and their information such as weather description
 
+https://github.com/ttan0408/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
+
+## Travel Itinerary Map Creation :
+
+We also enhance the app so that travelers can select cities and create their itineraries. The example map where the 4 city destinations is shown below :
+
+
+
 
 
 
