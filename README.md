@@ -9,3 +9,5 @@ We are working with Jack to develope a PlanMyTrip app. The testing version of th
 We createed a random city location list over 2000 cities which included their weather information as shown below
 
 https://github.com/ttan0408/World_Weather_Analysis/blob/main/Weather_Database_Summary.PNG
+
+Then using these 2000 cities list, we add the temperature filter so that traveler can filter the preference temperature cities that they like to visit
