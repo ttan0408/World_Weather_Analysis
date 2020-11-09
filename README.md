@@ -1,8 +1,11 @@
 # World_Weather_Analysis
-We are working with Jack to develope a PlanMyTrip app. The testing version of the app works great. After the Beta version testing periods, we received several feedbacks for improving. These sugesstion includes :  
+We are working with Jack to develope a PlanMyTrip app. The testing version of the app works great. After the Beta version testing periods, we received several feedbacks for improving. These sugesstion includes : 
+
       *Travelers input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels.
       *From the list of potential travel destinations, travelers will choose cities to create a travel itinerary.
       *Finally, travelers will create a travel route between the four cities as well as a marker layer map.
       
 ## Travelers input statements to filter the data for their weather preferences :
-We createed a random city location list over 2000 cities which included their weather information.
+We createed a random city location list over 2000 cities which included their weather information as shown below
+
+https://github.com/ttan0408/World_Weather_Analysis/blob/main/Weather_Database_Summary.PNG
